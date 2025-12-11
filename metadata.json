@@ -1,0 +1,5 @@
+{
+  "name": "ElementVis",
+  "description": "A scientific, interactive educational web application visualizing the Periodic Table, molecular geometry, and chemical reactions with dynamic states and animations.",
+  "requestFramePermissions": []
+}
